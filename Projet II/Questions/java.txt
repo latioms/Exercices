@@ -1,0 +1,5 @@
+Java est un language procedurale ou Orientee Objet ?
+Quelle societe est "Proprietaire" du java ?
+L'heritage Multiple est-il possible ?
+Quelle mot cle permet d'instancier ou de creer des Objets ?
+Une classe declaree Final peut-elle etre derivee ?
