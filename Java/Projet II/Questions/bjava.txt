@@ -1,0 +1,6 @@
+Java est un language de Programmation Procedurale.
+L'adressage en Java est fait par Valeur.
+L'Encapsulation permet de Garantir l'integrite de donner.
+La double egalite permet de Comparer deux Objets en java.
+La notion de Multi-heritage existe en Java.
+Le Polymorphisme permet de creer plusieurs objets a la fois.
